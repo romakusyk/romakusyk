@@ -904,10 +904,10 @@ img {
 
 /*стили для модалки */
 .modal {
-  display: block; }
+  display: none; }
 
 .page__modal {
-  display: block;
+  display: none;
 }
 
 .modal--open {
